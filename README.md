@@ -17,7 +17,7 @@ Learn all of the fundamentals of JavaScript, and have fun while doing it – wit
 ```
 Javascript Fundamentals
 [x] Overview
-[ ] Basic Concepts
+[x] Basic Concepts
 [ ] Conditional and Loops
 [ ] Functions
 [ ] Objects
