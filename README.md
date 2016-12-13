@@ -22,7 +22,7 @@ Javascript Fundamentals
 [x] Functions
 [x] Objects
 [x] Core Objects
-[ ] DOM & Events
-[ ] Certificate
+[x] DOM & Events
+[x] Certificate
 ```
 
