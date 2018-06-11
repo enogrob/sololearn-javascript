@@ -18,11 +18,10 @@ Learn all of the fundamentals of JavaScript, and have fun while doing it – wit
 Javascript Fundamentals
 [x] Overview
 [x] Basic Concepts
-[x] Conditional and Loops
-[x] Functions
-[x] Objects
-[x] Core Objects
-[x] DOM & Events
-[x] Certificate
+[ ] Conditional and Loops
+[ ] Functions
+[ ] Objects
+[ ] Core Objects
+[ ] DOM & Events
+[ ] Certificate
 ```
-
