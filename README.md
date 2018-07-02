@@ -20,7 +20,7 @@ Javascript Fundamentals
 [x] Basic Concepts
 [x] Conditional and Loops
 [x] Functions
-[ ] Objects
+[x] Objects
 [ ] Core Objects
 [ ] DOM & Events
 [ ] Certificate
