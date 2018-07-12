@@ -21,7 +21,7 @@ Javascript Fundamentals
 [x] Conditional and Loops
 [x] Functions
 [x] Objects
-[ ] Core Objects
+[x] Core Objects
 [ ] DOM & Events
 [ ] Certificate
 ```
